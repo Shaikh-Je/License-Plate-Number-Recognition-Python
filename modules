@@ -1,6 +1,0 @@
-modules : 
-pip install flask opencv-python easyocr numpy
-pip install torch torchvision torchaudio
-
-then run :
-python appp2.py (file name) in your terminal
